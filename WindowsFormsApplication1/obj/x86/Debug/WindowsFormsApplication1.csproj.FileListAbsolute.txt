@@ -5,3 +5,12 @@ D:\Katerina\works\2020-2021\gitform\WindowsFormsApplication1\WindowsFormsApplica
 D:\Katerina\works\2020-2021\gitform\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 D:\Katerina\works\2020-2021\gitform\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
 D:\Katerina\works\2020-2021\gitform\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\projects\PIE_21_Ivanov_Lab_1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\projects\PIE_21_Ivanov_Lab_1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\projects\PIE_21_Ivanov_Lab_1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\projects\PIE_21_Ivanov_Lab_1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\projects\PIE_21_Ivanov_Lab_1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\projects\PIE_21_Ivanov_Lab_1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\projects\PIE_21_Ivanov_Lab_1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\projects\PIE_21_Ivanov_Lab_1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\projects\PIE_21_Ivanov_Lab_1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
